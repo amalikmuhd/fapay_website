@@ -1,0 +1,166 @@
+.sectiontwo {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.sectiontwo h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43px;
+    line-height: 42px;
+    letter-spacing: -0.4px;
+    color: #273686;
+    margin: 2% 0;
+}
+
+.sectiontwo p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #273686;
+    mix-blend-mode: normal;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+    flex-basis: 400px;
+    height: 35vh;
+    margin: 0px 0.5%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    border: 2px solid #273686;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.Sec-2-left-Icon {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin: 0px auto;
+    background-image: url("image/paycodeone.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+}
+
+.one h2 {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 32px;
+    color: #273686;
+    margin-bottom: 20px;
+}
+
+.one p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 27px;
+    color: #273686;
+    mix-blend-mode: normal;
+    opacity: 0.7;
+}
+
+.emptyDiv {
+    margin-top: 23px;
+}
+
+.Sec-2-middle-Icon {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin: 0px auto;
+    background-image: url("image/phonewithnumber.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+}
+
+.two {
+    border: 2px solid #273686;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.two h2 {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 32px;
+    color: #273686;
+    margin-bottom: 20px;
+}
+
+.two p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #273686;
+    mix-blend-mode: normal;
+    opacity: 0.7;
+}
+
+.Sec-2-right-Icon {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin: 0px auto;
+    background-image: url("image/paybills.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+}
+
+.three {
+    border: 2px solid #273686;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.three h2 {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 32px;
+    color: #273686;
+    margin-bottom: 20px;
+}
+
+.three p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #273686;
+    mix-blend-mode: normal;
+    opacity: 0.7;
+}
+
+
+
+

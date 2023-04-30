@@ -1,0 +1,251 @@
+.sectionSevenContainer{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.header {
+    margin: 5% 0px;
+}
+.header > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43.3172px;
+    line-height: 54px; 
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #273686;
+    margin-bottom: 1%;
+}
+
+.header > h3 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22.69px;
+    line-height: 33px;
+    text-align: center;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+}
+
+.section-7-row-2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+/* left Column */
+.sec-7-left-col {
+    flex: 1;
+    margin-top: 5%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.shiftright {
+    margin-left: 50%;
+    /* margin: 0 0 0 5%; */
+}
+.shiftright > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14.4391px;
+    line-height: 26.8px;
+    letter-spacing: 2.06272px;
+    text-transform: uppercase;
+    color: #1E0E62;
+}
+
+.shiftright > h4{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.5px;
+    line-height: 27px;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+}
+
+/* Middle column */
+.sec-7-middle-col {
+    flex: 2;
+    display: flex;
+}
+
+.sec-7-middle-col img {
+    width: 50%;
+    height: 85%;
+}
+
+.inner-middle-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 8% 0 0 2%;
+    text-align: left;
+}
+
+.inner-middle-col > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14.4391px;
+    line-height: 27px;
+    letter-spacing: 2.06272px;
+    text-transform: uppercase;
+    color: #1E0E62;
+}
+
+.inner-middle-col > h4{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.4676px;
+    line-height: 27px;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+}
+
+/* Right column */
+/* .sec-7-right-col {
+    flex: 5;
+    margin-top: 5%;
+}
+.sec-7-right-col > h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14.4391px;
+    line-height: 27px;
+    letter-spacing: 2.06272px;
+    text-transform: uppercase;
+    color: #1E0E62;
+    text-align: center;
+}
+
+.sec-7-right-col > h4{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.4676px;
+    line-height: 27px;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+} */
+
+
+/*Sign up Form and Title*/
+.sec-7-row-3 > h4 {
+    margin: 0% 0 0 0 ;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43.31px;
+    line-height: 54px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #1E0E62;
+}
+
+.sect-7-row-4 {
+    margin: 3% auto 0px auto;
+    width: 80%;
+    height: 619px;
+    background: #273686;
+    box-shadow: 0px 30.94px 61.88px rgba(19, 24, 48, 0.0720283);
+    filter: drop-shadow(0px 4.12545px 4.12545px rgba(0, 0, 0, 0.25));
+    border-radius: 10px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+}
+
+.inner-7-row-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.inner-7-row-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* flex-basis: 500px; */
+    margin-bottom: 5%;
+}
+
+.inner-7-row-1 > h3 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 43px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.inner-7-row-2 > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 60px;
+    color: #F3F2F6;
+    text-align: left;
+}
+
+.inner-7-row-2 > h4 {
+    margin-top: 10%;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20.6272px;
+    line-height: 35px;
+    color: #FFFFFF;
+    text-align: left;
+}
+
+.sec-7-row-4 > h4 {
+    /* margin: 5% 0px 50% 0px; */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.5018px;
+    text-align: left;
+    line-height: 27px;
+    color: rgba(21, 20, 57, 0.4);
+    mix-blend-mode: normal;
+}
+
+.FieldBox {
+    margin: 5% auto;
+    margin-top: 5%;
+    padding: 3%;
+    text-align: center;
+    background-color: transparent;
+    width: 360px;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    color: #FFFFFF;
+    height: 30px;
+}
+
+.Section-7-buttonSignup {
+    margin: 5%  0;
+    text-align: center;
+    padding: 10px 15px;
+    width: 360px;
+    background-color: #DE5988;
+    border-radius: 5px;
+    color: #FFFFFF;
+    height: 30px;
+}
+
+.Section-7-buttonSignup > p {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.5018px;
+    line-height: 21px;
+    letter-spacing: 1.10012px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.Section-7-buttonSignup > p > a:visited, a:link {
+    color: #fff;
+}

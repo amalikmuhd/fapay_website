@@ -1,0 +1,88 @@
+.sectionSixContainer{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    background-color: #EEF2F6;
+}
+
+.header {
+    margin: 5% 0px;
+}
+.header > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43.3172px;
+    line-height: 53.6px; 
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #273686;
+}
+
+.header > h3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.5018px;
+    line-height: 26.8px;
+    text-align: center;
+    color: #273686;
+    mix-blend-mode: normal;
+}
+
+.secsixBoxContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec-6-col-1 img {
+    width: 80%;
+}
+
+.sec-6-col-2{
+    display: flex;
+    justify-content: space-evenly;
+    height: 500px;
+    flex-direction: column; 
+}
+
+
+.sec-6-col-2 > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43.31px;
+    line-height: 53.6px;
+    letter-spacing: -0.4px;
+    color: #273686;
+}
+
+.mixed-div-6  > h2 {
+    margin-left: 17%;
+    /* width: 100px; */
+    font-style: normal;
+    font-weight: bold;
+    font-size: 33px;
+    line-height: 43px;
+    color: #273686;
+    text-align: left;
+}
+
+.Field-Section-6{
+    margin: 5% auto;
+    background-color: transparent;
+    padding: 3%;
+    text-align: center;
+    width: 360px;
+    border: 1px solid #DE5988;
+    border-radius: 10px;
+    color: #FFFFFF;
+}
+
+.Section-6-buttonSignup {
+    margin: 0 auto;
+    padding: 3%;
+    text-align: center;
+    width: 360px;
+    background-color: #DE5988;
+    border-radius: 10px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}

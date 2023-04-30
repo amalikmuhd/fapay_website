@@ -1,0 +1,113 @@
+.bigContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 135vh;
+    text-align: center;
+}
+
+.bigContainer-header{
+    margin: 0px auto 0px;
+    padding: 5px 2%;
+    height: 9%;
+    filter: drop-shadow(0px 44px 99px rgba(112, 144, 176, 0.12));
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.bigContainer-header > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 56px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #273686;
+}
+
+.bigContainer-header > p {
+    margin-top: 5px;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25.73px;
+    line-height: 28.4px;
+    text-align: center;
+    color: #273686;
+    mix-blend-mode: normal;
+}
+
+
+.ContainerColumn-Box {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.left {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Sec-4-left-Icon {
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    margin: auto;
+    background-image: url("image/sec4-col3-image.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+}
+
+.left > h4 {
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #273686;
+}
+
+.left > h5 {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: rgba(21, 20, 57, 0.4);
+}
+
+.right {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.Sec-4-right-Icon {
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    background-image: url("image/sec4-col3-image2.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+}
+
+.right > h4 {
+    font-weight: 500;
+    font-size: 18px;
+    text-align: center;
+    color: #273686;
+}
+
+.right > h5 {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: rgba(21, 20, 57, 0.4);
+}

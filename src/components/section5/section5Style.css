@@ -1,0 +1,116 @@
+.sectionFiveContainer {
+    /* height: 140vh;  */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    background: linear-gradient(135deg, #E786D7 0%, #273686 100%);
+}
+
+.sect-5-header {
+    margin: 2% auto 0px;
+    padding: 10px 8%;
+    height: 9%;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border-radius: 10px;
+    filter: drop-shadow(0px 44.9359px 99.8576px rgba(112, 144, 176, 0.12));
+}
+
+.sect-5-header > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45.89px;
+    line-height: 56.8px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #ffffff;
+}
+
+.sect-5-header > h3 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 25.78px;
+    line-height: 28.4px;
+    text-align: center;
+    color: #F2F2F2;
+    mix-blend-mode: normal;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.sect-5-row-container {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.sect-5-col-1 {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    margin-top: 10%;
+    margin-left: 10%; 
+}
+
+.sect-5-col-1 > h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 43.32px;
+    line-height: 53.6px;
+    letter-spacing: -0.4px;
+    color: #ffffff;
+    margin-bottom: 5%;
+}
+
+.sect-5-col-1 > h4 {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22.89px;
+    line-height: 33px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+nav {
+    margin-top: 10%;
+    margin-bottom: 10%;
+    margin-left: 10%;
+}
+
+nav img {
+    width: 4%;
+    margin-right: 4%;
+}
+
+nav li {
+    list-style-type: none;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14.44px;
+    line-height: 26.8px;
+    letter-spacing: 2.06272px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding-bottom: 5%;
+}
+nav ul li p {
+    margin-left: 9%;
+    margin-top: -7%;
+}
+
+.sect-5-col-2 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.sect-5-col-2 img {
+    display: flex;
+    width: 90%;
+    /* object-fit: cover;
+    object-position: right; */
+}

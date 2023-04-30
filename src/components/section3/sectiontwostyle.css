@@ -1,0 +1,50 @@
+.sectionThree-background{
+    margin-top: 10%;
+    margin-bottom: 2%;
+    /* height: 100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: linear-gradient(209.59deg, #58B4FE 18.11%, #273686 94.2%);
+    /* justify-content: center; */
+}
+
+.topbox {
+    margin: 1% auto 40px auto;
+    padding: 20px 2% 40px;
+    height: 12%;
+    filter: drop-shadow(0px 44.93px 99.86px rgba(112, 144, 176, 0.12));
+    border-radius: 10.31px;
+    background-color: #63B1F1;
+}
+
+.topbox h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 58px;
+    text-align: center;
+    letter-spacing: -0.4px;
+    color: #273686;
+}
+
+.topbox p {
+    font-style: normal;
+    font-size: 25.7px;
+    line-height: 28px;
+    text-align: center;
+    color: #273686;
+    mix-blend-mode: normal;
+}
+
+.second-row{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.second-row > img {
+    /* object-fit: contain; */
+    width: 70%;
+    /* margin-top: 20%; */
+}
