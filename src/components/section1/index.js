@@ -11,13 +11,13 @@ const SectionOne = () => {
         <div className="sec-1-col-1">
           <h1>
             Make sweet
-            <br /> revenue with Dodo
+            <br /> revenue with Fapay
             <br />
             Business
           </h1>
 
           <h3>
-            With the Dodopay Merchant app you can carry
+            With the Fapay Merchant app you can carry
             <br />
             out lightening fast transactions using Barcode
             <br />

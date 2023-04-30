@@ -16,14 +16,14 @@ const SectionFive = () => {
         <h3>
           Make 2% everything your customers peform any transactions
           <br />
-          using dodo business.
+          using fapay business.
         </h3>
       </div>
 
       <div className="sect-5-row-container">
         <div className="sect-5-col-1">
           <h1>
-            Explore the Dodopay
+            Explore the Fapaypay
             <br />
             bussiness app
           </h1>
@@ -45,15 +45,15 @@ const SectionFive = () => {
                 <p>
                   Get an instant business
                   <br /> account when you sign up
-                  <br /> on dodo business
+                  <br /> on Fapay business
                 </p>
               </li>
             </ul>
           </nav>
 
           <div className="sect-5-downloadLinks">
-            <img src={AppleBadge} alt="" />
-            <img src={GoogleBadge} alt="" />
+            <img src={AppleBadge} alt="" style={{ width: 150, height: "auto" }} />
+            <img src={GoogleBadge} alt="" style={{ width: 150, height: "auto" }} />
           </div>
         </div>
 

@@ -8,10 +8,8 @@ const SectionOne = () => {
       <div className="textBoxContainer">
         <h1>Built to help your business grow</h1>
         <p>
-          The Dodo Business app is built for business owners looking to
-          experience
-          <br /> seamless transactions with the best technology to reduce queues
-          and
+          The Fapay Business app is built for business owners looking to experience
+          <br /> seamless transactions with the best technology to reduce queues and
           <br /> increase revenue by 89%.
         </p>
       </div>
@@ -24,7 +22,7 @@ const SectionOne = () => {
           </div>
 
           <p>
-            With dodo business your phone is all
+            With fapay business your phone is all
             <br />
             you need to perform all transcations
             <br />
@@ -40,7 +38,7 @@ const SectionOne = () => {
           </div>
 
           <p>
-            WWith dodo business you don’t need
+            WWith fapay business you don’t need
             <br />
             to memorize account numbers. All
             <br />
@@ -57,7 +55,7 @@ const SectionOne = () => {
           </div>
 
           <p>
-            Dodo business offers you the
+            Fapay business offers you the
             <br />
             fastest way to pay all your bills
             <br />

@@ -6,11 +6,8 @@ const SectionSeven = () => {
   return (
     <div className="sectionSevenContainer">
       <div className="header">
-        <h1>Scale your business with easy payment from dodo</h1>
-        <h3>
-          Huge trendy collection of web screens and components. Fully
-          customized.
-        </h3>
+        <h1>Scale your business with easy payment from fapay</h1>
+        <h3>Huge trendy collection of web screens and components. Fully customized.</h3>
       </div>
 
       <div className="section-7-row-2">
@@ -77,19 +74,13 @@ const SectionSeven = () => {
       </div>
 
       <div className="sec-7-row-3">
-        <h4>Sign up on Dodo and grow your business</h4>
+        <h4>Sign up on Fapay and grow your business</h4>
       </div>
 
       <div className="sect-7-row-4">
         <div className="inner-7-row-1">
           <h3>Get Started today</h3>
-          <input
-            className="FieldBox"
-            type="text"
-            name=""
-            id=""
-            placeholder="youremail@example.com"
-          />
+          <input className="FieldBox" type="text" name="" id="" placeholder="youremail@example.com" />
 
           <a href="#">
             <div className="Section-7-buttonSignup">
@@ -104,7 +95,7 @@ const SectionSeven = () => {
             <br /> about our product?
           </h1>
           <h4>
-            Reach out to us at support@dodopay.ng to speak to our
+            Reach out to us at support@fapay.ng to speak to our
             <br />
             dedicated support team.
           </h4>
